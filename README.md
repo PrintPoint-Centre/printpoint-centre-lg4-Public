@@ -70,3 +70,4 @@ node src/database/init.js
 
 - **Database Management:** Complete and verified.
 - **Routes & Middleware:** Pending implementation by respective team members (`src/routes/` and `src/middleware/`).
+
