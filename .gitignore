@@ -18,9 +18,9 @@ yarn-error.log*
 *.sqlite3
 printpoint.db
 
-# Personal assignment media & screenshots
-screenshots/
+# Personal assignment media
+!screenshots/
+!screenshots/*.jpg
 *.png
-*.jpg
 *.jpeg
 *.pdf
